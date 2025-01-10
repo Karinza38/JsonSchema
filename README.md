@@ -1,4 +1,4 @@
-# Overview [![Build Status](https://api.travis-ci.org/sgpinkus/JsonSchema.png)](https://travis-ci.org/sgpinkus/JsonSchema)
+ # Overview [![Build Status](https://api.travis-ci.org/sgpinkus/JsonSchema.png)](https://travis-ci.org/sgpinkus/JsonSchema)
 Draft v6 compliant JSON Schema validator for PHP:
 
   * Modular design.
